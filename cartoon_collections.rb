@@ -6,7 +6,7 @@ def roll_call_dwarves(arr)# code an argument here
 end
 
 def summon_captain_planet(arr)
-  arr.map { |e| e.first.upcase + "!"}
+  arr.map { |e| e[0].upcase + "!"}
   return arr
 end
 
