@@ -11,7 +11,6 @@ end
 
 def long_planeteer_calls(arr)# code an argument here
    arr.select {|e| e.length > 4}.size > 0 ? true : false
-  return arr
 end
 
 def find_the_cheese# code an argument here
