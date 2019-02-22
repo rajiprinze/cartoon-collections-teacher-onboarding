@@ -6,7 +6,7 @@ def roll_call_dwarves(arr)# code an argument here
 end
 
 def summon_captain_planet(arr)
-  
+  arr.map |e| 
 end
 
 def long_planeteer_calls(arr)# code an argument here
