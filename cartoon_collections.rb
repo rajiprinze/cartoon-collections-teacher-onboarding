@@ -5,11 +5,11 @@ def roll_call_dwarves(arr)# code an argument here
   }
 end
 
-def summon_captain_planet(array)
+def summon_captain_planet(arr)
   array.map |xx| element.upcase + "!"
 end
 
-def long_planeteer_calls(array)# code an argument here
+def long_planeteer_calls(arr)# code an argument here
   array.select |element| element.length > 4
 end
 
